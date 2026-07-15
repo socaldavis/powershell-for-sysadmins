@@ -66,7 +66,7 @@ function Get-CDUptime {
 
 .NOTES
     Part of the PC-Addicts script library — github.com/socaldavis/powershell-for-sysadmins
-    — demonstrated on youtube.com/@PCAddicts. Test in a lab before production.
+    — demonstrated on youtube.com/@PC-Addicts. Test in a lab before production.
 #>
     [CmdletBinding()]
     param(
@@ -129,7 +129,7 @@ function Get-CDLoggedOn {
 
 .NOTES
     Part of the PC-Addicts script library — github.com/socaldavis/powershell-for-sysadmins
-    — demonstrated on youtube.com/@PCAddicts. Test in a lab before production.
+    — demonstrated on youtube.com/@PC-Addicts. Test in a lab before production.
 
     quser needs the Remote Desktop Services "allow remote RPC" bits reachable on the
     target; a warning here usually means firewall, not "nobody logged on".

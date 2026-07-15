@@ -43,7 +43,7 @@ function Get-LoggedOnUser {
 
     .NOTES
         Part of the PC-Addicts script library — github.com/socaldavis/powershell-for-sysadmins
-        — demonstrated on youtube.com/@PCAddicts. Test in a lab before production.
+        — demonstrated on youtube.com/@PC-Addicts. Test in a lab before production.
 
         Requires the "Remote Desktop Services" RPC ports to be reachable on the target
         (quser uses RPC, not WinRM). Works in Windows PowerShell 5.1 and PowerShell 7.

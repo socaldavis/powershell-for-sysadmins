@@ -45,7 +45,7 @@ function Get-PendingReboot {
         module (github.com/bcwilhite/PendingReboot) — this is an independent, simplified
         implementation written for teaching; use Brian's module for full coverage (SCCM, etc.).
         Part of the PC-Addicts script library — github.com/socaldavis/powershell-for-sysadmins
-        — demonstrated on youtube.com/@PCAddicts. Test in a lab before production.
+        — demonstrated on youtube.com/@PC-Addicts. Test in a lab before production.
 
         Requires WinRM on remote targets. PendingFileRenameOperations is the noisiest signal
         (installers set it constantly) — weigh it accordingly before mass-rebooting.

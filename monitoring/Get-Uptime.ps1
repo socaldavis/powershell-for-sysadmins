@@ -37,7 +37,7 @@ function Get-Uptime {
 
     .NOTES
         Part of the PC-Addicts script library — github.com/socaldavis/powershell-for-sysadmins
-        — demonstrated on youtube.com/@PCAddicts. Test in a lab before production.
+        — demonstrated on youtube.com/@PC-Addicts. Test in a lab before production.
 
         Requires WinRM on remote targets (Get-CimInstance -ComputerName uses WSMan).
         Works in Windows PowerShell 5.1 and PowerShell 7.

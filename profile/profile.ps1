@@ -42,7 +42,7 @@
 
 .NOTES
     Part of the PC-Addicts script library — github.com/socaldavis/powershell-for-sysadmins
-    — demonstrated on youtube.com/@PCAddicts. Test in a lab before production.
+    — demonstrated on youtube.com/@PC-Addicts. Test in a lab before production.
 
     If profiles won't load, check your execution policy:  Get-ExecutionPolicy -List
     (RemoteSigned is the usual sysadmin setting.)

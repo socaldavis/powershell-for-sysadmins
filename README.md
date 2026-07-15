@@ -2,7 +2,7 @@
 
 Real sysadmin PowerShell from 13 years on the job, rewritten from the ground up to be generic,
 parameterized, and safe to run in *your* environment. These are the cleaned-up versions of the
-scripts shown on the [PC-Addicts YouTube channel](https://www.youtube.com/@PCAddicts) — the
+scripts shown on the [PC-Addicts YouTube channel](https://www.youtube.com/@PC-Addicts) — the
 originals were written to get the job done; these are what they should have looked like.
 
 **Written walkthroughs for every script:**
