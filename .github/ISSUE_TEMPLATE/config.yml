@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Watch the walkthroughs
+    url: https://www.youtube.com/@PC-Addicts
+    about: These scripts are demonstrated on the PC-Addicts YouTube channel.
+  - name: Written tutorials
+    url: https://pc-addicts.com/tutorials/sysadmin-powershell-script-library
+    about: Step-by-step write-ups for every script in this library.
